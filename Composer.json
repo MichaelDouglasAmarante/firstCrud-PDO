@@ -1,0 +1,17 @@
+{
+    "name": "michaeldouglasamarante/cursophp-crud",
+    "description": "CRUD desenvolvido durante o Curso de PHP do Canal Node Studio Treinamentos",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Douglas do Amarante",
+            "email": "doug.amarante@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+    
+}
